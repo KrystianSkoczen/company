@@ -258,6 +258,10 @@ button:hover {
 .awesome {
   columns: 2; }
 
+.site {
+  text-decoration: none;
+  color: #33ccff;}
+
 @media (max-width: 767px) {
   .grid-1 {
     width: 50%; }
